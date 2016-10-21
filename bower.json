@@ -1,0 +1,8 @@
+{
+  "name": "HelloIonic",
+  "private": "true",
+  "devDependencies": {},
+  "dependencies": {
+    "ngCordova": "^0.1.27-alpha"
+  }
+}
